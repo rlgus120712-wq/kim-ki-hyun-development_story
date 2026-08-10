@@ -1,7 +1,7 @@
-<h1 align="center">🔥 와따네참조기 🔥</h1>
+<h1 align="center">🔥 와따네기현이 🔥</h1>
 
 <p align="center">
-  <b>조기현 — 프론트엔드 개발자의 매일 성장 로그</b><br/>
+  <b>김기현 — 프론트엔드 개발자의 매일 성장 로그</b><br/>
   <sub>Vue 3 · TypeScript · Vuetify · Cloud Integration · Enterprise Web Apps</sub><br/><br/>
   <img src="https://img.shields.io/badge/Vue.js-3.x-42B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -57,7 +57,7 @@
 ## 👨‍💻 About Me
 |  |  |
 | --- | --- |
-| **이름** | 조기현 |
+| **이름** | 김기현 |
 | **포지션** | 프론트엔드 개발자 |
 | **기술 스택** | Vue.js, TypeScript, Vuetify, Cloud Integration |
 | **관심사** | 성능 최적화, 클린 아키텍처, 인증 시스템 |
